@@ -1,6 +1,6 @@
 # TMVF:Trusted Multi-view Fish Behavior Recognition with Correlative Feature and Adaptive Evidence Fusion
 
-# This repository is an official implementation of the IEEE TMM 2024 paper "Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition".
+This repository is an official implementation of the IEEE TMM 2024 paper "Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition".
 ---
 
 Zhao Z, Yang X, Zhao C, et al. TMVF: Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion[J]. Information Fusion, 2025, 118: 102899.

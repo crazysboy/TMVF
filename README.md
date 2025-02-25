@@ -1,5 +1,5 @@
 
-# This repository is an official implementation of the IInformation Fusion 2025 paper "Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion".
+# This repository is an official implementation of the Information Fusion 2025 paper "Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion".
 ---
 
     Zhao Z, Yang X, Zhao C, et al. TMVF: Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion[J]. Information Fusion, 2025, 118: 102899.

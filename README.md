@@ -29,7 +29,7 @@ Activity Class type	Activity Labelc0	Normal Forward Driving
 
 If you use GCVC in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
-   @article{ZHAO2025102899,
+   @ARTICLE{ZHAO2025102899,
    title = {TMVF: Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion},
    journal = {Information Fusion},
    volume = {118},
@@ -41,7 +41,7 @@ If you use GCVC in your research or wish to refer to the baseline results publis
    author = {Zhenxi Zhao and Xinting Yang and Chunjiang Zhao and Chao Zhou}}
 
 
-    @ARTICLE{10155192,
+    @article{10155192,
     author={Zhao, Zhenxi and Yang, Xinting and Liu, Jintao and Zhou, Chao and Zhao, Chunjiang},
     journal={IEEE Transactions on Multimedia}, 
     title={GCVC: Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition}, 

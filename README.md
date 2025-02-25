@@ -17,7 +17,7 @@ Extraction Code: s9p4
 
 **activity label**
 
-    Activity Class type	  Activity Labelc
+    Activity Class type	  Activity Label
     0         Swimming behavior
     1	  predatory behavior
     2	  Food picking behavior

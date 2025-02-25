@@ -18,10 +18,10 @@ Extraction Code: s9p4
 **activity label**
 
 Activity Class type	Activity Labelc0	Normal Forward Driving
-   0   Swimming behavior
-   1	  predatory behavior
-   2	  Food picking behavior
-   3	  No or Weak Feading behavior
+    0     Swimming behavior
+    1	  predatory behavior
+    2	  Food picking behavior
+    3	  No or Weak Feading behavior
 
 
 
@@ -29,29 +29,16 @@ Activity Class type	Activity Labelc0	Normal Forward Driving
 
 If you use GCVC in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
-   @ARTICLE{ZHAO2025102899,
-   title = {TMVF: Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion},
-   journal = {Information Fusion},
-   volume = {118},
-   pages = {102899},
-   year = {2025},
-   issn = {1566-2535},
-   doi = {https://doi.org/10.1016/j.inffus.2024.102899},
-   url = {https://www.sciencedirect.com/science/article/pii/S1566253524006778},
-   author = {Zhenxi Zhao and Xinting Yang and Chunjiang Zhao and Chao Zhou}}
-
-
-    @article{10155192,
-    author={Zhao, Zhenxi and Yang, Xinting and Liu, Jintao and Zhou, Chao and Zhao, Chunjiang},
-    journal={IEEE Transactions on Multimedia}, 
-    title={GCVC: Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition}, 
-    year={2024},
-    volume={26},
-    number={},
-    pages={1776-1789},
-    keywords={Fish;Feature extraction;Activity recognition;Calibration;Adhesives;Training;Convolution;Graph convolution vector calibration;fish group activity;activity feature 
-    vector calibration;fish activity dataset},
-    doi={10.1109/TMM.2023.3287339}}
+    @ARTICLE{ZHAO2025102899,
+    title = {TMVF: Trusted Multi-View Fish Behavior Recognition with correlative feature and adaptive evidence fusion},
+    journal = {Information Fusion},
+    volume = {118},
+    pages = {102899},
+    year = {2025},
+    issn = {1566-2535},
+    doi = {https://doi.org/10.1016/j.inffus.2024.102899},
+    url = {https://www.sciencedirect.com/science/article/pii/S1566253524006778},
+    author = {Zhenxi Zhao and Xinting Yang and Chunjiang Zhao and Chao Zhou}}
 
    
 

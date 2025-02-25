@@ -39,7 +39,21 @@ If you use GCVC in your research or wish to refer to the baseline results publis
    doi = {https://doi.org/10.1016/j.inffus.2024.102899},
    url = {https://www.sciencedirect.com/science/article/pii/S1566253524006778},
    author = {Zhenxi Zhao and Xinting Yang and Chunjiang Zhao and Chao Zhou}}
-   }
+
+
+    @ARTICLE{10155192,
+    author={Zhao, Zhenxi and Yang, Xinting and Liu, Jintao and Zhou, Chao and Zhao, Chunjiang},
+    journal={IEEE Transactions on Multimedia}, 
+    title={GCVC: Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition}, 
+    year={2024},
+    volume={26},
+    number={},
+    pages={1776-1789},
+    keywords={Fish;Feature extraction;Activity recognition;Calibration;Adhesives;Training;Convolution;Graph convolution vector calibration;fish group activity;activity feature 
+    vector calibration;fish activity dataset},
+    doi={10.1109/TMM.2023.3287339}}
+
+   
 
 # Note
   It is worth noting that the related work will be uploaded later, depending on the available time.

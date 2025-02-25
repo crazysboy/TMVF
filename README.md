@@ -17,10 +17,10 @@ Extraction Code: s9p4
 
 **activity label**
 
-Activity Class type	Activity Labelc0	Normal Forward Driving
-    0     Swimming behavior
-    1	  predatory behavior
-    2	  Food picking behavior
+    Activity Class type	Activity Labelc0	Normal Forward Driving
+    0     Swimming behavior，
+    1	  predatory behavior，
+    2	  Food picking behavior，
     3	  No or Weak Feading behavior
 
 
